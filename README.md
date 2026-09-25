@@ -8,19 +8,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=580&height=44&lines=Data%20Engineer%20%7C%20ML%20%26%20BI%20Enthusiast;Turning%20raw%20data%20into%20real%20decisions" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 3rd-year Computer Engineering student at ENSA El Jadida, specializing in  
    Data Science, Machine Learning &amp; Business Intelligence  
+   
  Interning at CDG (Caisse de Dépôt et de Gestion), building an AI-powered  
    client complaints platform — BPMN workflow design + an NLP classifier  
    that predicts complaint outcomes from text  
+   
  Co-building a NoSQL Schema Inspector (Python/Streamlit) for schema  
    inference &amp; security auditing across MongoDB, CouchDB &amp; Firestore —  
    aiming for a SoftwareX (Elsevier) publication  
+   
 Always exploring how data + AI can solve real, messy problems
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
@@ -83,19 +86,19 @@ Always exploring how data + AI can solve real, messy problems
   <a href="mailto:mrazzouk233@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=majdamija123&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=majdamija123&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
