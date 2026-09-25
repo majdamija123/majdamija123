@@ -10,16 +10,11 @@
 
 ###  About Me
 
-3rd-year Computer Engineering student at ENSA El Jadida, specializing in  
-   Data Science, Machine Learning &amp; Business Intelligence  
+3rd-year Computer Engineering student at ENSA El Jadida, specializing in Data Science, Machine Learning &amp; Business Intelligence  
    
- Interning at CDG (Caisse de Dépôt et de Gestion), building an AI-powered  
-   client complaints platform — BPMN workflow design + an NLP classifier  
-   that predicts complaint outcomes from text  
+Interning at CDG (Caisse de Dépôt et de Gestion), building an AI-powered client complaints platform — BPMN workflow design + an NLP classifier that predicts complaint outcomes from text  
    
- Co-building a NoSQL Schema Inspector (Python/Streamlit) for schema  
-   inference &amp; security auditing across MongoDB, CouchDB &amp; Firestore —  
-   aiming for a SoftwareX (Elsevier) publication  
+Co-building a NoSQL Schema Inspector (Python/Streamlit) for schema  inference &amp; security auditing across MongoDB, CouchDB &amp; Firestore ,aiming for a SoftwareX (Elsevier) publication  
    
 Always exploring how data + AI can solve real, messy problems
 
